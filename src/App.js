@@ -218,10 +218,10 @@ const App = () => {
               onChange={(e) => setPostPatch(e.target.value)}
             >
               <option value="">Select</option>
-              <option value="pattern1">Pattern A</option>
-              <option value="pattern2">Pattern B</option>
-              <option value="pattern3">Pattern C</option>
-              <option value="pattern3">Pattern D</option>
+              <option value="patternA">Pattern A</option>
+              <option value="patternB">Pattern B</option>
+              <option value="patternC">Pattern C</option>
+              <option value="patternD">Pattern D</option>
             </select>
           </div>
 
@@ -237,8 +237,8 @@ const App = () => {
               <option value="patternB">Pattern B</option>
               <option value="patternC">Pattern C</option>
               <option value="patternD">Pattern D</option>
-              <option value="patternD">Pattern E</option>
-              <option value="patternD">Pattern F</option>
+              <option value="patternE">Pattern E</option>
+              <option value="patternF">Pattern F</option>
             </select>
           </div>
 
